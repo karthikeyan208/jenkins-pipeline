@@ -1,4 +1,4 @@
-def function()
+def buildapp()
 {
   echo 'building an application'
 }
